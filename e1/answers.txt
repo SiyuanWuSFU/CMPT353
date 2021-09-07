@@ -1,0 +1,4 @@
+1. Numpy is easier to work with, but output from pandas is more detailed. 
+2. The running time using panda is around 8.46ms, and the running time for using loops is around 363ms. 
+   The possible reason is that panda utilize functions from numpy, and numpy does vectorized calculation which enables 
+  multiply array elements to be calculated parallelly. 

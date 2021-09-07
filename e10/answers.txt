@@ -1,0 +1,8 @@
+1. 
+	1.	Running reddit-0 takes 10.66s 
+	2.	With no caching and no schema specified, the time taken for reddit-2 is 16.47s
+	3.	With schema specified but no caching, the time taken for reddit-2 is 14.24s
+	4.	With caching and schema specified, the time taken for reddit-2 is 12.40s
+2. With schema specified, the time saved is 2.2s and using caching saves 1.8s, so reading files is taking more time. 
+
+3. cache() is used before applying UDF to two data frames and joining of the two data frames. 

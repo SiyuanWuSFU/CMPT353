@@ -1,0 +1,5 @@
+1. For smoothing the CPU temperature, LOESS does a better job compare to Kalman smoothing
+    as its result appears to be a relatively stable line. Whereas for Kalman smoothing, 
+    the temperature line fluctuates constantly.
+2. If other data and their relation to latitude and longitude are known, they can be used and 
+    form a more detailed transition matrix, resulting in more accurate smoothing. 

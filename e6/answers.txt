@@ -1,0 +1,9 @@
+1. I don’t think we are p-hacking because both data and the test method are almost fixed in this exercise. 
+The only p-value under 0.05 is the test for finding out if instructors search more or less. The final p-value is 0.0225, which
+ I think is considerably significant below 0.05, and I think it is trustworthy.
+
+2. If we have to do a T-test for every pair, there will 7C2, which there are 21 tests we have to do.
+ For p<0.05, the chance of correct rejection is 0.95^21, so the possibility of false-positive is 1-(0.95^21)= 0.66
+
+3. The ranking for the sorting algorithm is qs1,qs2 or qs3, partition_sort, merge1, qs5, qs4. Qs2 and qs3 are indistinguishable as 
+these two pair gives false reject of the null hypothesis. 

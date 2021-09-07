@@ -1,0 +1,5 @@
+1. Even though there are n40 data points, the distribution is far from being normal. Therefore OLS cannot apply here, 
+and we cannot conclude the ratings are increasing.  
+
+2. No, because the data still fluctuate vastly. In addition, the difference between training and validation 
+scores indicates that there might be an overfitting problem. 

@@ -1,0 +1,7 @@
+1. KNN did the best for the colour prediction for both RGB and HSV. It works the best probably because 
+the same colour tends to group together and form cluster-like distribution, which allows KNN to have 
+better accuracy. Only in the Bayesian classifier, HSV has a significant advantage. In HSV, there is a hue axis
+ which is the main property that decides the colour, and the Bayesian classifier can fully utilize this property.
+
+2. I think the mistakes are reasonable as some locations are very close to each other, which results in identical weather.
+ Adding humidity and precipitation may help a lot in this case. 

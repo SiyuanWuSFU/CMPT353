@@ -1,0 +1,7 @@
+scp -P24 first_spark.py swa173@gateway.csil.sfu.ca:~
+
+ssh -p24 swa173@gateway.csil.sfu.ca
+
+scp -P24 first_spark.py cluster.cs.sfu.ca:
+
+ssh cluster.cs.sfu.ca

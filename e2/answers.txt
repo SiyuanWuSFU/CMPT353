@@ -1,0 +1,9 @@
+1. By using stats.linregress() function, the input takes the rating value and the timestamp 
+to calculate a linear least-squares regression, or a best-fit line. So data['timestamp']*slope+ intercept
+ would be a rough prediction of rating base on date. The outcome has the dtype float64 and it is 
+within the range of 10.7 to 14.3. 
+
+
+2.The result is a fit line because it is calculated using least-square regression. ‘
+created_at’ and ‘timestamp ’ paired correctly because they are basically the same 
+thing except ‘created_at’ in in datetime format whereas ‘timestamp’ is in int64 format.

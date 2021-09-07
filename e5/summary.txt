@@ -1,0 +1,32 @@
+dataset1 has x mean 8.71769618641382, y mean 12.522874034702584. 
+ x value is in range 35.23705548785129 to -22.635877790008944, and y value is in range 27.38415261152477 to -2.5650878326932127. 
+ The standard deviation of x and y are 12.15551723122202 and 6.63996400756785.
+The correlation between x and y is 0.9503256954375482.
+
+dataset2 has x mean -0.7107871267159573, y mean -0.7489869764497991. 
+ x value is in range 27.6470003722073 to -33.2711130771198, and y value is in range 14.147314992317481 to -18.621803760419066. 
+ The standard deviation of x and y are 11.481583587790734 and 6.257917998755848.
+The correlation between x and y is 0.9551531665750372.
+
+dataset3 has x mean 0.9689074904200939, y mean 8.508535236641327. 
+ x value is in range 4.51888491755363 to -2.4490643296742807, and y value is in range 10.551871022804317 to 6.641734490391762. 
+ The standard deviation of x and y are 2.235557861057969 and 1.1493008110024525.
+The correlation between x and y is 0.981937264676066.
+
+dataset4 has x mean 49.90508614830509, y mean 18.553836525423726. 
+ x value is in range 87.3767 to 0.0, and y value is in range 44.56504 to 0.0. 
+ The standard deviation of x and y are 28.508610519881934 and 16.545896442941682.
+The correlation between x and y is -0.08119306735490815.
+The correlation between x and y is close to 0, which means x and y may not have any connections
+
+dataset5 has x mean 49.90999357843095, y mean 18.555524937729086. 
+ x value is in range 91.0528633396976 to 4.337892453674525, and y value is in range 49.93419703633311 to 0.05549750758115175. 
+ The standard deviation of x and y are 28.500000943801357 and 16.540796301840782.
+The correlation between x and y is -0.08823598983058885.
+The correlation between x and y is close to 0, which means x and y may not have any connections
+
+dataset6 has x mean 7.21615517960992, y mean 7.602215028237295. 
+ x value is in range 35.402138910929 to -24.33382075234097, and y value is in range 36.07987403078143 to -22.9563569970746. 
+ The standard deviation of x and y are 11.921599067458311 and 11.764382455006649.
+The correlation between x and y is 0.9350685662094906.
+

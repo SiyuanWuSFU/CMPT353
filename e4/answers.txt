@@ -1,0 +1,8 @@
+1. Temperature is not a good way to predict population density. Assuming there is a relation between
+ temperature and population density. From the scatter plot, cities with population density from 0 to 3000 
+are almost evenly distributed in the temperature range of 10 to 30 degrees, which contradicts the
+ hypothesis that a linear relationship exists between population density and temperatures. 
+
+2. The "lines = True " when taking the JSON data breaks the data into chunks to fit into 
+the memory. In memory, the data can be decompressed and processed faster than 
+decompressing the data in HDD and sent into memory for processing. 

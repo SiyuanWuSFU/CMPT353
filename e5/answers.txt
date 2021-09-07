@@ -1,0 +1,9 @@
+1. The square root transformation gives the closest satisfying assumption of one variable passing the normality test and having equal variance. 
+
+2. The null hypothesis for the original T-test and transformed T-test is the average comment posted on weekdays and weekends are the same. 
+Therefore, if the hypothesis is rejected, the conclusion would be the average comment posted on weekdays and weekends are different. 
+
+3. The central limit theorem is the best approach as both variables passed the normality test, and the data has equal variance. It is also better
+than the U-test because the view count from weekdays and weekends is not very evenly shuffled in the original data. 
+
+4. Weekdays have more comments posted on average. 

@@ -1,0 +1,4 @@
+1. The newly joined table that will have other operations performed on them will be cached. If they are not cached, they 
+will have to be re-read from the disk every time a new operation is performed on them, which would cost a lot more time.
+
+2. With broadcast(), time taken was 1min and 4.77 seconds, and without broadcast(), the time taken was 2min and 0.785 seconds.
